@@ -19,7 +19,7 @@ import SearchIcon from '@/components/icons/search-icon.vue'
       <nav>
         <ul class="flex flex-wrap space-x-6 mt-4 sm:mt-0 sm:ml-auto justify-center">
           <li>
-            <RouterLink to="/" class="hover:text-white text-gray-400">
+            <RouterLink to="/knowledge" class="hover:text-white text-gray-400">
               Zamonaviy bilimlar
             </RouterLink>
           </li>
