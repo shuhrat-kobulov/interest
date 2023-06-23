@@ -1,3 +1,7 @@
-<script setup></script>
+<script setup>
+import { IntroSlider } from '@/components/intro-slider'
+</script>
 
-<template>welcome</template>
+<template>
+  <IntroSlider />
+</template>

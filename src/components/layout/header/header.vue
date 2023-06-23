@@ -12,7 +12,9 @@ import SearchIcon from '@/components/icons/search-icon.vue'
     <div class="container mx-auto py-4 flex flex-wrap items-center justify-between">
       <!-- Logo -->
       <div class="flex items-center">
-        <Logo />
+        <RouterLink to="/">
+          <Logo />
+        </RouterLink>
       </div>
 
       <!-- Navigation Links -->
